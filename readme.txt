@@ -6,3 +6,4 @@ test --no-of
 test fast forward
 Creating a new branch is quick.
 Creating a new branch is quick again.
+test again again.
